@@ -1,0 +1,2 @@
+com/example/myFirstSprintApp/MyFirstSprintAppApplication.java
+ com.example.myFirstSprintApp.MyFirstSprintAppApplication
